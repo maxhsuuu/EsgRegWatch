@@ -1,0 +1,62 @@
+[
+  {
+    "id": "moenv_carbon_fee_2024",
+    "name": "Taiwan MOENV Carbon Fee Rates",
+    "url": "https://www.moenv.gov.tw/en/news/press-releases/31552.html",
+    "authority": "Ministry of Environment (MOENV)",
+    "category": "carbon_fee",
+    "language": "en",
+    "priority": "high",
+    "affected_company_type": ["manufacturing", "power", "large_emitters"],
+    "regulation_type": "fee_rate",
+    "notes": "Standard rate NT$300/tCO2e effective Jan 2025"
+  },
+  {
+    "id": "cca_carbon_fee_fund",
+    "name": "Climate Change Administration – Carbon Fee Fund",
+    "url": "https://www.cca.gov.tw/en/affairs/carbon-fee-fund/2301.html",
+    "authority": "Climate Change Administration (CCA)",
+    "category": "carbon_fee",
+    "language": "en",
+    "priority": "high",
+    "affected_company_type": ["manufacturing", "power"],
+    "regulation_type": "fund_mechanism",
+    "notes": "Scope: emitters > 25,000 tCO2e/year"
+  },
+  {
+    "id": "fsc_ifrs_s1s2_2025",
+    "name": "FSC – Adoption of IFRS Sustainability Disclosure Standards",
+    "url": "https://www.fsc.gov.tw/en/home.jsp?dataserno=202511110006&dtable=News&id=54&mcustomize=multimessage_view.jsp&parentpath=0",
+    "authority": "Financial Supervisory Commission (FSC)",
+    "category": "disclosure_standard",
+    "language": "en",
+    "priority": "high",
+    "affected_company_type": ["all_listed"],
+    "regulation_type": "disclosure_mandate",
+    "notes": "Phased IFRS S1/S2 adoption from FY2026"
+  },
+  {
+    "id": "twse_sustainability_2025",
+    "name": "TWSE – All Listed Companies Complete Sustainability Report Submission",
+    "url": "https://cgc.twse.com.tw/pressReleases/promoteNewsArticleEn/4525",
+    "authority": "Taiwan Stock Exchange (TWSE)",
+    "category": "reporting_deadline",
+    "language": "en",
+    "priority": "medium",
+    "affected_company_type": ["all_listed"],
+    "regulation_type": "deadline_announcement",
+    "notes": "1,029 companies submitted by Aug 31, 2025"
+  },
+  {
+    "id": "fsc_sustainable_action_plan",
+    "name": "FSC – Sustainable Development Action Plans for Listed Companies",
+    "url": "https://cgc.twse.com.tw/responsibilityPlan/listEn",
+    "authority": "Financial Supervisory Commission (FSC)",
+    "category": "disclosure_standard",
+    "language": "en",
+    "priority": "medium",
+    "affected_company_type": ["all_listed"],
+    "regulation_type": "action_plan",
+    "notes": "2023 ESG roadmap for TWSE/TPEx listed companies"
+  }
+]
